@@ -1,0 +1,4 @@
+
+# learn functional programming
+
+frp?
