@@ -1,0 +1,26 @@
+# f#
+
+Apply (https://www.totaljobs.com/job/84532755/apply?RecommendedJob=1&DCMP=R_EM_IJM_TJ_301218)
+    F# - Google Search (https://www.google.com/search?q=F%23)
+        Why use F#? | F# for fun and profit (https://fsharpforfunandprofit.com/why-use-fsharp/)
+        F# Tutorial - YouTube (https://www.youtube.com/watch?v=c7eNDJN758U)
+        F# syntax in 60 seconds | F# for fun and profit (https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
+            Installing and using F# | F# for fun and profit (https://fsharpforfunandprofit.com/installing-and-using/)
+                Ionide - Crossplatform F# Editor Tools (http://ionide.io/)
+                Use F# on Mac OSX | The F# Software Foundation (https://fsharp.org/use/mac/)
+                Using F# across platforms (HTML5, Linux, Mac/OSX, Android, GPU, ...) - CodePlex Archive (https://archive.codeplex.com/?p=fsxplat)
+                The Old F# "PowerPack" - CodePlex Archive (https://archive.codeplex.com/?p=fsharppowerpack)
+                Download - Stable | Mono (https://www.mono-project.com/download/stable/)
+                MonoDevelop | MonoDevelop (https://www.monodevelop.com/)
+C# Compiler | Mono (https://www.mono-project.com/docs/about-mono/languages/csharp/)
+mono mac executable - Google Search (https://www.google.com/search?q=mono+mac+executable&oq=mono+mac+executable&aqs=chrome..69i57.5582j0j7&sourceid=chrome&ie=UTF-8)
+    bundle - How to create a .app from a Mono application in Mac OS X? - Super User (https://superuser.com/questions/132501/how-to-create-a-app-from-a-mono-application-in-mac-os-x)
+    macos - Running .NET binary with mono - Ask Different (https://apple.stackexchange.com/questions/4996/running-net-binary-with-mono)
+
+haskell vs f# - Google Search (https://www.google.com/search?q=haskell+vs+f%23)
+Does F# have a future? - General - F# Software Foundation Community Forums (https://forums.fsharp.org/t/does-f-have-a-future/237/2)
+Idris - Google Search (https://www.google.com/search?q=Idris&oq=Idris&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8)
+Idris | A Language with Dependent Types (https://www.idris-lang.org/)
+Idris (programming language) - Wikipedia (https://en.wikipedia.org/wiki/Idris_(programming_language))
+Idris Elba surprises fans as he is announced to perform at Coachella as DJ | Daily Mail Online (https://www.dailymail.co.uk/tvshowbiz/article-6551637/Idris-Elba-surprises-fans-announced-perform-Coachella-DJ.html)
+
