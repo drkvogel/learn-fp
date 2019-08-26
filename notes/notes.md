@@ -1,8 +1,12 @@
 
+
+# learn functional programming
+
+frp?
+
 >In a functional paradigm, you don’t tell the computer what to do but rather you tell it what stuff is.
 
-
->If a function is called twice with the same parameters, it’s guaranteed to return the same result. This is called **referential transparency**.
+>If a function is called twice with the same parameters, it’s guaranteed to return the same result. This is called **referential transparency** (RT).
 
 >Typically, in functional programming, we do not use loops. We use recursion.
 

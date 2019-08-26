@@ -1,4 +1,4 @@
 
-# learn functional programming
+# learn-fp
 
-frp?
+Cultural Learnings of Functional Programming for Make Great Benefit
