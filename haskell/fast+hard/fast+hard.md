@@ -1,6 +1,6 @@
 
 
-Haskell Fast & Hard - School of Haskell | School of Haskell (https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
+[Haskell Fast & Hard - School of Haskell  School of Haskell ](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 
 
 
